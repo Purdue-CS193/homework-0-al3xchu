@@ -37,3 +37,8 @@ hi there is alex
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Alex's First CS193 Homework
+- Having students as teachers instead of professors
+- class only meets once a week
+- i have more than one TA in the lecture
